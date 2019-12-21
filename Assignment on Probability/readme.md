@@ -13,13 +13,17 @@
 ## Conditional, Joint and Marginal Probability
 
 5. In my town, it's rainy for one third of the days. Given that it is rainy, there will be heavy traffic with probability 1/2, and given that it is not rainy, there will be heavy traffic with probability 1/4. If it's rainy and there is heavy traffic, I arrive late for work with probability 1/2. On the other hand, the probability of being late is 1/8 if it is not rainy and there is no heavy traffic. In other situations (rainy and no traffic, not rainy and traffic) the probability of being late is 0.25, 0.25. You pick a random day.
-  * What is the probability that it's not raining and there is heavy traffic and I am not late?
-  * What is the probability that I am late?
-  * Given that I arrived late at work, what is the probability that it rained that day?
+   * What is the probability that it's not raining and there is heavy traffic and I am not late?
+  
+   * What is the probability that I am late?
+  
+   * Given that I arrived late at work, what is the probability that it rained that day?
 
 6. A box contains three coins: two regular coins and one fake two-headed coin (P(Heads)=1), You pick a coin at random and toss it.
   * What is the probability that it lands heads up?
+  
   * You pick a coin at random and toss it and get heads. What is the probability that it is the two-headed coin?
+  
  
  7. Suppose that, of all the customers at a coffee shop,
   * 70% purchase a cup of coffee;
@@ -36,11 +40,12 @@
 
 ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
 
- * What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/         Joint/Conditional)
+  * What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/         Joint/Conditional)
+ 
   * What is the probability that a randomly selected individual is a male?
 
   * What is the probability of a randomly selected individual being a graduate? What kind of probability is this?
-
+ 
   * What is the probability that a randomly selected person is a female given that the selected person is a post graduate? What kind of     probability is this?
 
 ## Bayes Theorem
