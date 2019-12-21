@@ -19,6 +19,10 @@
   2. What is the probability that I am late?
 
   3. Given that I arrived late at work, what is the probability that it rained that day?
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 
 6. A box contains three coins: two regular coins and one fake two-headed coin (P(Heads)=1), You pick a coin at random and toss it.
 *
