@@ -13,7 +13,7 @@
 ## Conditional, Joint and Marginal Probability
 
 5. In my town, it's rainy for one third of the days. Given that it is rainy, there will be heavy traffic with probability 1/2, and given that it is not rainy, there will be heavy traffic with probability 1/4. If it's rainy and there is heavy traffic, I arrive late for work with probability 1/2. On the other hand, the probability of being late is 1/8 if it is not rainy and there is no heavy traffic. In other situations (rainy and no traffic, not rainy and traffic) the probability of being late is 0.25, 0.25. You pick a random day.
-
+*
   * What is the probability that it's not raining and there is heavy traffic and I am not late?
 
   * What is the probability that I am late?
@@ -21,7 +21,7 @@
   * Given that I arrived late at work, what is the probability that it rained that day?
 
 6. A box contains three coins: two regular coins and one fake two-headed coin (P(Heads)=1), You pick a coin at random and toss it.
-
+*
   * What is the probability that it lands heads up?
 
   * You pick a coin at random and toss it and get heads. What is the probability that it is the two-headed coin?
