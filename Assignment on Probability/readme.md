@@ -9,3 +9,43 @@
 3.You toss a fair coin three times: Given that you have observed at least one heads, what is the probability that you observe at least two heads?
 
 4.A and B are a married couple with two kids. One of them is a girl. What is the probability that their other kid is also a girl?
+
+## Conditional, Joint and Marginal Probability
+
+5.In my town, it's rainy for one third of the days. Given that it is rainy, there will be heavy traffic with probability 1/2, and given that it is not rainy, there will be heavy traffic with probability 1/4. If it's rainy and there is heavy traffic, I arrive late for work with probability 1/2. On the other hand, the probability of being late is 1/8 if it is not rainy and there is no heavy traffic. In other situations (rainy and no traffic, not rainy and traffic) the probability of being late is 0.25, 0.25. You pick a random day.
+
+* What is the probability that it's not raining and there is heavy traffic and I am not late?
+
+* What is the probability that I am late?
+
+* Given that I arrived late at work, what is the probability that it rained that day?
+
+6.A box contains three coins: two regular coins and one fake two-headed coin (P(Heads)=1), You pick a coin at random and toss it.
+
+* What is the probability that it lands heads up?
+
+* You pick a coin at random and toss it and get heads. What is the probability that it is the two-headed coin?
+
+7.Suppose that, of all the customers at a coffee shop,
+
+* 70% purchase a cup of coffee;
+* 40% purchase a piece of cake;
+* 20% purchase both a cup of coffee and a piece of cake. Given that a randomly chosen customer has purchased a piece of cake, what is the probability that he/she also purchased a cup of coffee.
+
+A is known to tell the truth in 5 cases out of 6 and he states that a white ball was drawn from a bag containing 8 blacks and 1 white ball. Find the probability that the white ball was drawn.
+
+A speaks the truth 4 out of 5 times. A die is tossed. A report that it is a 6. What are the chances that there actually was a 6?
+
+In a class, 40% of the student’s study math and science. 60% of the student’s study math. What is the probability of a student studying science given he/she is already studying math?
+
+Below is a table of graduates and post graduates
+
+
+
+a) What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/ Joint/Conditional)
+
+b) What is the probability that a randomly selected individual is a male?
+
+c) What is the probability of a randomly selected individual being a graduate? What kind of probability is this?
+
+d) What is the probability that a randomly selected person is a female given that the selected person is a post graduate? What kind of probability is this?
