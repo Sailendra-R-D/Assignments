@@ -36,13 +36,9 @@
 10. In a class, 40% of the student’s study math and science. 60% of the student’s study math. What is the probability of a student studying science given he/she is already studying math?
 
 11. Below is a table of graduates and post graduates
-![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
-   * What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/         Joint/Conditional)
- 
+   * What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/          Joint/Conditional)
    * What is the probability that a randomly selected individual is a male?
-
    * What is the probability of a randomly selected individual being a graduate? What kind of probability is this?
- 
    * What is the probability that a randomly selected person is a female given that the selected person is a post graduate? What kind of      probability is this?
 
 ## Bayes Theorem
