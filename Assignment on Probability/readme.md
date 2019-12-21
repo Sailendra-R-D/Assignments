@@ -20,15 +20,15 @@
    * Given that I arrived late at work, what is the probability that it rained that day?
 
 6. A box contains three coins: two regular coins and one fake two-headed coin (P(Heads)=1), You pick a coin at random and toss it.
-  * What is the probability that it lands heads up?
+   * What is the probability that it lands heads up?
   
-  * You pick a coin at random and toss it and get heads. What is the probability that it is the two-headed coin?
+   * You pick a coin at random and toss it and get heads. What is the probability that it is the two-headed coin?
   
  
  7. Suppose that, of all the customers at a coffee shop,
-  * 70% purchase a cup of coffee;
-  * 40% purchase a piece of cake;
-  * 20% purchase both a cup of coffee and a piece of cake. Given that a randomly chosen customer has purchased a piece of cake, what is     the probability that he/she also purchased a cup of coffee.
+   * 70% purchase a cup of coffee;
+   * 40% purchase a piece of cake;
+   * 20% purchase both a cup of coffee and a piece of cake. Given that a randomly chosen customer has purchased a piece of cake, what is     the probability that he/she also purchased a cup of coffee.
 
 8. A is known to tell the truth in 5 cases out of 6 and he states that a white ball was drawn from a bag containing 8 blacks and 1 white ball. Find the probability that the white ball was drawn.
 
@@ -40,13 +40,13 @@
 
 ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
 
-  * What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/         Joint/Conditional)
+   * What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/         Joint/Conditional)
  
-  * What is the probability that a randomly selected individual is a male?
+   * What is the probability that a randomly selected individual is a male?
 
-  * What is the probability of a randomly selected individual being a graduate? What kind of probability is this?
+   * What is the probability of a randomly selected individual being a graduate? What kind of probability is this?
  
-  * What is the probability that a randomly selected person is a female given that the selected person is a post graduate? What kind of     probability is this?
+   * What is the probability that a randomly selected person is a female given that the selected person is a post graduate? What kind of     probability is this?
 
 ## Bayes Theorem
 
