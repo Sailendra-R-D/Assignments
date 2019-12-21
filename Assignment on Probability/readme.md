@@ -3,16 +3,16 @@
 ## Basic Probability
 
 1. Two dies are rolled at once. Find out the probability for sum of numbers being even and one of the dice shows 6.
-![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
+![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln1_1.jpg "T11Q")
 
 2. Two dies are rolled at once. Find out the probability for sum of numbers being less than 7
-![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
+![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln2_1.jpg "T11Q")
 
 3. You toss a fair coin three times: Given that you have observed at least one heads, what is the probability that you observe at least two heads?
-![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
+![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln3_1.jpg "T11Q")
 
 4. A and B are a married couple with two kids. One of them is a girl. What is the probability that their other kid is also a girl?
-![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
+![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln4_1.jpg "T11Q")
 
 ## Conditional, Joint and Marginal Probability
 
