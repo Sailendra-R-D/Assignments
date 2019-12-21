@@ -72,7 +72,6 @@
 ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln12_1.jpg "T11Q")
 
 13. In a particular region during a 1 year period, there were 1000 deaths. It was observed that 321 people died of a renal failure and 460 men had at least one parent with renal failure. Of these 460 men, 115 died of renal failure. Calculate that he dies of renal failure if neither of his parents had a renal failure
-![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20t1able.png "T11Q")
 
 14. You go to see the doctor about an ingrowing toe nail. The doctor selects you at random to have a blood test for swine flu, which for the purposes of this exercise we will say is currently suspected to affect 1 in 10,000 people in Australia. The test is 99% accurate, in the sense that the probability of a false positive is 1%. The probability of a false negative is zero. You test positive. What is the new probability that you have swine flu?
 ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln14_1.jpg "T11Q")
