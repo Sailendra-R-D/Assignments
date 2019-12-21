@@ -32,20 +32,29 @@
 * 40% purchase a piece of cake;
 * 20% purchase both a cup of coffee and a piece of cake. Given that a randomly chosen customer has purchased a piece of cake, what is the probability that he/she also purchased a cup of coffee.
 
-A is known to tell the truth in 5 cases out of 6 and he states that a white ball was drawn from a bag containing 8 blacks and 1 white ball. Find the probability that the white ball was drawn.
+8.A is known to tell the truth in 5 cases out of 6 and he states that a white ball was drawn from a bag containing 8 blacks and 1 white ball. Find the probability that the white ball was drawn.
 
-A speaks the truth 4 out of 5 times. A die is tossed. A report that it is a 6. What are the chances that there actually was a 6?
+9.A speaks the truth 4 out of 5 times. A die is tossed. A report that it is a 6. What are the chances that there actually was a 6?
 
-In a class, 40% of the student’s study math and science. 60% of the student’s study math. What is the probability of a student studying science given he/she is already studying math?
+10.In a class, 40% of the student’s study math and science. 60% of the student’s study math. What is the probability of a student studying science given he/she is already studying math?
 
-Below is a table of graduates and post graduates
+11.Below is a table of graduates and post graduates
 
+![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/11Q%20table.png "T11Q")
 
+* What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/ Joint/Conditional)
 
-a) What is the probability that a randomly selected individual is a male and a graduate? What kind of probability is it (Marginal/ Joint/Conditional)
+* What is the probability that a randomly selected individual is a male?
 
-b) What is the probability that a randomly selected individual is a male?
+* What is the probability of a randomly selected individual being a graduate? What kind of probability is this?
 
-c) What is the probability of a randomly selected individual being a graduate? What kind of probability is this?
+* What is the probability that a randomly selected person is a female given that the selected person is a post graduate? What kind of probability is this?
 
-d) What is the probability that a randomly selected person is a female given that the selected person is a post graduate? What kind of probability is this?
+## Bayes Theorem
+
+13.You need to figure out whether a company is fraud based on the legal charges they filed. We have the knowledge that, the chances a company submitting fraudulent filings is 0.1. There exists an algorithm that can predict fraud. This algorithm returns a correct positive result in 92% of the cases in which the fraud is present, and correct negative results in 90% of the cases where the fraud is not present. Suppose we observe a company for whom the algorithm test returns a fraud result. Calculate the posterior probability that this company truly did frau in their filings
+
+14.In a particular region during a 1 year period, there were 1000 deaths. It was observed that 321 people died of a renal failure and 460 men had at least one parent with renal failure. Of these 460 men, 115 died of renal failure. Calculate that he dies of renal failure if neither of his parents had a renal failure
+
+15.You go to see the doctor about an ingrowing toe nail. The doctor selects you at random to have a blood test for swine flu, which for the purposes of this exercise we will say is currently suspected to affect 1 in 10,000 people in Australia. The test is 99% accurate, in the sense that the probability of a false positive is 1%. The probability of a false negative is zero. You test positive. What is the new probability that you have swine flu?
+
