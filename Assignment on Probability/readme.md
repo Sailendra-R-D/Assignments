@@ -22,10 +22,10 @@
    * What is the probability that it's not raining and there is heavy traffic and I am not late?
   ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln5_2.jpg "T11Q")
 
-   * What is the probability that I am late?
+   * What is the probability that I am late?(<p style='color:red'>correction:11/48</p>)
   ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln5_3.jpg "T11Q")
 
-   * Given that I arrived late at work, what is the probability that it rained that day?
+   * Given that I arrived late at work, what is the probability that it rained that day?(<p style='color:red'>correction:6/11</p>)
   ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln5_4.jpg "T11Q")
 
 6. A box contains three coins: two regular coins and one fake two-headed coin (P(Heads)=1), You pick a coin at random and toss it.
@@ -68,7 +68,7 @@
 
 ## Bayes Theorem
 
-12. You need to figure out whether a company is fraud based on the legal charges they filed. We have the knowledge that, the chances a company submitting fraudulent filings is 0.1. There exists an algorithm that can predict fraud. This algorithm returns a correct positive result in 92% of the cases in which the fraud is present, and correct negative results in 90% of the cases where the fraud is not present. Suppose we observe a company for whom the algorithm test returns a fraud result. Calculate the posterior probability that this company truly did frau in their filings
+12. You need to figure out whether a company is fraud based on the legal charges they filed. We have the knowledge that, the chances a company submitting fraudulent filings is 0.1. There exists an algorithm that can predict fraud. This algorithm returns a correct positive result in 92% of the cases in which the fraud is present, and correct negative results in 90% of the cases where the fraud is not present. Suppose we observe a company for whom the algorithm test returns a fraud result. Calculate the posterior probability that this company truly did frau in their filings (<p style='color:red'>correction:10.2%</p>)
 ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln12_1.jpg "T11Q")
 
 13. In a particular region during a 1 year period, there were 1000 deaths. It was observed that 321 people died of a renal failure and 460 men had at least one parent with renal failure. Of these 460 men, 115 died of renal failure. Calculate that he dies of renal failure if neither of his parents had a renal failure
