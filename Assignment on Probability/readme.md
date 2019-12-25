@@ -22,7 +22,7 @@
    * What is the probability that it's not raining and there is heavy traffic and I am not late?
   ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln5_2.jpg "T11Q")
 
-   * What is the probability that I am late?(<span style="color:red">correction:11/48</span>)
+   * What is the probability that I am late?(```html<span style="color:red">correction:11/48</span>```)
   ![picture alt](https://github.com/Sailendra-R-D/Assignments/blob/master/Assignment%20on%20Probability/soln_scr/soln5_3.jpg "T11Q")
 
    * Given that I arrived late at work, what is the probability that it rained that day?(<p style='color:red'>correction:6/11</p>)
